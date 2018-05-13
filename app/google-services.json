@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005793672628",
+    "firebase_url": "https://ahawy-34cf0.firebaseio.com",
+    "project_id": "ahawy-34cf0",
+    "storage_bucket": "ahawy-34cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005793672628:android:81f0b5ee8fb0494d",
+        "android_client_info": {
+          "package_name": "com.example.karim.ahawy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005793672628-eb63di0f5d88h0kggp05o6pqjd5heo5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karim.ahawy",
+            "certificate_hash": "f0c22fd18967968a04ce2a2ac217137a05cbeee8"
+          }
+        },
+        {
+          "client_id": "1005793672628-k8lllosjcvdgij69dcaabqudssqs4k2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMXn1jF-pF71mwcF6JzDZs_C5HjgHg4mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005793672628-k8lllosjcvdgij69dcaabqudssqs4k2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
