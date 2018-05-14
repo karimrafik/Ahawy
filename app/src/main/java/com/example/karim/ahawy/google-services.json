@@ -15,14 +15,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "1005793672628-eb63di0f5d88h0kggp05o6pqjd5heo5m.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.karim.ahawy",
-            "certificate_hash": "f0c22fd18967968a04ce2a2ac217137a05cbeee8"
-          }
-        },
-        {
           "client_id": "1005793672628-k8lllosjcvdgij69dcaabqudssqs4k2p.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1005793672628-k8lllosjcvdgij69dcaabqudssqs4k2p.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
